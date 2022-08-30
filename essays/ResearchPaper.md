@@ -4,7 +4,7 @@ type: essay
 title: "Personnel Compensation"
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-14
-published: true
+published: false
 labels:
   - Human Resouces
 ---
