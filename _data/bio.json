@@ -17,8 +17,9 @@
   },
   "interests": [
     { "name": "Network Secruity" },
-    { "name": "Nature and Geology" },
+    { "name": "Nature" },
     { "name": "Climate Change" },
+    { "name": "Geology" },
   ],
   "skills": [
     {
