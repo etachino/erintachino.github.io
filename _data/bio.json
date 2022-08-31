@@ -23,12 +23,12 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Mastery and Competence",
+      "keywords": [ "Soft Skills", "Analytical", "Reliable", "Flexible/Adaptable", "Hospitality", "Professionalism" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Excel", "Word", "Powerpoint", "Access" ]
     }
   ],
   "education": [
@@ -44,42 +44,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "HawaiiUSA Federal Credit Union",
+      "position": "Human Resouce Intern",
+      "startDate": "2022-06-06",
+      "endDate": "2022-09-02",
+      "summary": "Helped with HR assignments",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+        "Maintain, update, and oversee employee files: physical and electronic",
+        "Onboarding Project, created a Powerpoint and wrote a paper assessing/recommending strageties for HawaiiUSA Federal Credit Union onboarding process"
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Starbucks",
+      "position": "Barista",
+      "startDate": "2019-09",
+      "endDate": "2021-12",
+      "summary": "Trained baristas and maintained Starbucks store",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Operated cash register, collected payments and provided accurate change",
+        "Opened and Closed Procedures", "Prepared and severed hot and cold beverages such as, coffee, espresso drinks, and teas"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
     },
     {
       "organization": "",
@@ -95,18 +80,6 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
