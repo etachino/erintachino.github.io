@@ -14,9 +14,6 @@ Team Resources: Erin Tachino, Fharoh Omick, Natalie Kwon, Gage Lee, Hannah Li, &
 Shidler College of Business, University of Hawai’i HRM 453: Personnel Compensation
 Dr. Cristina Suarez
 May 14, 2022
-Table of Contents
-Introduction by Erin Tachino ..................................................................... 2 Incentive Pay as Motivation by Hannah Li...................................................... 8 Cross-Cultural Differences in Compensation by Fharoh Omick............................. 14 Strategic Employee Recognition by Gage Lee...................................................21 How AI is Affecting Compensation Decisions by Natalie Kwon..............................27 Tuition Reimbursement & Conclusion by Mackenzie Plunkett ...............................33
-1
 
 Erin Tachino: Introduction
 Compensation can come in many different forms. Overall compensation means wages paid to employees by employers for work performed. Compensation can also be short-term or long-term incentives for employees. Compensation can be base pay, variable pay, and differential pay. Personnel compensation is covered by all these different types of pay (SHRM, 2021). When employees work hard for a company; providing extra compensation to recognize the work that an employee has put in, can be extremely beneficial to the company. When a company gives meaningful compensation for employees' work it creates a strong relationship between the two. No one wants to be underappreciated.
