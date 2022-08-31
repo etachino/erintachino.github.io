@@ -9,10 +9,9 @@
     "summary": "I am currently studying Human Resources and MIS at University of Hawaii at Manoa. I expect to graduate Spring 2023.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "etachino", "url": "http://github.com/etachino" },
+      { "network": "linkedin", "username": "erintachino", "url": "http://linkedin.com/in/erin-tachino" },
+      { "network": "instagram", "username": "errin.t", "url": "http://instagram.com/errin.t" }
     ]
   },
   "interests": [
