@@ -1,0 +1,12 @@
+---
+layout: essay
+type: essay
+title: "Personnel Compensation"
+# All dates must be YYYY-MM-DD format!
+date: 2022-05-14
+published: true
+labels:
+  - Human Resouces
+---
+
+Test
