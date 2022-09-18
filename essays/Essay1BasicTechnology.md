@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "E1 UI Basic Technology"
 # All dates must be YYYY-MM-DD format!
-date: 2022-05-14
+date: 2022-09-18
 published: true
 labels:
   - Essay for BrowserHistory 1,2,3
