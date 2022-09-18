@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E1: UI Basic Technology Essay 
+title: E1 UI Basic Technology Essay 
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-17
 published: true
