@@ -10,8 +10,7 @@ labels:
 ---
 
 <p> Show what each page will look like. The pages do not have to be “functional” but the design should clear. </p>
-  [Click here to view screencast of diagram]
-		(https://youtu.be/a72-sQLSQEg)
+  [Click here to view screencast of diagram](https://youtu.be/a72-sQLSQEg)
  
 <p> Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart. </p>
   For my site's shopping cart I was thinking of doing a pop out of the cart so that a user can see what is in their cart. Then I have two buttons, one that says “check out” and the other saying “view cart”. The checkout button will take the user to the login page if the user has not logged in. After logging in the user will be taken back to the previous product page they were at. If the user is logged in then they will be taken to the invoice once hitting check out. On the view cart page the user will be able to edit the cart. Once the user has edited their cart they will be redirected to the login page or invoice depending on whether or not they are logged in. 
