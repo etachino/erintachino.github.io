@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Erin Tachino",
+    "label": "Student",
+    "picture": "https://github.com/etachino.png",
+    "email": "etachino@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://github.com/etachino/erintachino.github.io",
+    "summary": "I am currently studying Human Resources and MIS at University of Hawaii at Manoa. I expect to graduate Spring 2023.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "etachino", "url": "http://github.com/etachino" },
+      { "network": "linkedin", "username": "erintachino", "url": "http://linkedin.com/in/erin-tachino" },
+      { "network": "instagram", "username": "errin.t", "url": "http://instagram.com/errin.t" }
+    ]
+  },
+  "interests": [
+    { "name": "Network Secruity" },
+    { "name": "Nature" },
+    { "name": "Climate Change" },
+    { "name": "Geology" }
+  ],
+  "skills": [
+    {
+      "name": "Mastery and Competence",
+      "keywords": [ "Soft Skills", "Analytical", "Reliable", "Flexible/Adaptable", "Hospitality", "Professionalism" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Excel", "Word", "Powerpoint", "Access" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Human Resource and MIS (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2018-08-28",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "HawaiiUSA Federal Credit Union",
+      "position": "Human Resouce Intern",
+      "startDate": "2022-06-06",
+      "endDate": "2022-09-02",
+      "summary": "Helped with HR assignments",
+      "highlights": [
+        "Maintain, update, and oversee employee files: physical and electronic",
+        "Onboarding Project, created a Powerpoint and wrote a paper assessing/recommending strageties for HawaiiUSA Federal Credit Union onboarding process"
+        ]
+        },
+      {
+      "company": "Starbucks",
+      "position": "Barista",
+      "startDate": "2019-09",
+      "endDate": "2021-12",
+      "summary": "Trained baristas and maintained Starbucks store",
+      "highlights": [
+        "Operated cash register, collected payments and provided accurate change",
+        "Opened and Closed Procedures", "Prepared and severed hot and cold beverages such as, coffee, espresso drinks, and teas"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+    ]
+}
